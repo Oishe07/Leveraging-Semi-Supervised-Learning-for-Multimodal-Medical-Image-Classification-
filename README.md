@@ -55,7 +55,6 @@ pip install -r requirements.txt
 Run the notebooks from the notebooks folder.
 
 ## Paper
-## Paper
 
 This work has been accepted at the 28th International Conference on Computer and Information Technology (ICCIT 2025). The full paper will be made available after official publication.
 
