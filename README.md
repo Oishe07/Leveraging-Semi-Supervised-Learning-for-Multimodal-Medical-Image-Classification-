@@ -71,10 +71,11 @@ Md Sabbir Hossain
 Karib Shams
 Raihan Ul Islam
 
-## Citation
-## Paper
+## Publication
 
-This work has been accepted at the 28th International Conference on Computer and Information Technology (ICCIT 2025). The full paper will be made available after official publication.
+This work was published at the 28th International Conference on Computer and Information Technology (ICCIT 2025).
+
+📄 IEEE Xplore: https://ieeexplore.ieee.org/document/11491236
 
 ## License
 
